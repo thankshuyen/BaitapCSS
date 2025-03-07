@@ -1,0 +1,35 @@
+body {
+    margin: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+.d{
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1 {
+    color: #0056b3;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2 {
+    color: #2ba3ee;
+    font-family: 'Times New Roman', Times, serif;
+}
+h4 {
+    color: #2ba3ee;
+    font-family: Arial, sans-serif;
+}
+p {
+    line-height: 1.6;
+    font-family: Arial, sans-serif;
+}
+.c {
+    text-align: right;
+    font-style: italic;
+    color: #555;
+    font-family: Arial, sans-serif;
+}
