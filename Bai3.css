@@ -1,0 +1,44 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f8f8f8;
+}
+.container{
+    width: 80%;
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+    border: 1px solid black;
+}
+.h1{
+    background-image: url("https://free.vector6.com/wp-content/uploads/2020/09/Free-vector-000486-truu-tuong-ve-tay-mau-nuoc-bau-troi-va-nhung-dam-may-hinh-nen.jpg"); 
+    background-size: cover;
+    background-position: center;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+    color: red;
+    font-weight: bold;
+    font-size: 24px;
+}
+.website{
+    text-align: right;
+    color: green;
+    font-style: italic;
+    font-size: 16px;
+    margin-top: 10px;
+}
+.content{
+    background-color: #e08d51;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 10px;
+    text-align: justify;
+    color: black;
+    font-size: 16px;
+    line-height: 1.5;
+}
